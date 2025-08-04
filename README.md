@@ -41,7 +41,7 @@
 // A bit more about myself:
 
 const Mouad = {
-  code: ["SQL", "JAVA", "C#", "Python"],
+  code: ["SQL", "JAVA", "C++", "Python"],
   IDE: ["VS", "VSCode", "Eclipse"],
   interests: {
     mainInterest: "cybersecurity",
